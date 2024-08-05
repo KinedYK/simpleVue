@@ -25,4 +25,11 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 ```
 
+## code-inspector-plugin
+```
+  参考： https://www.npmjs.com/package/code-inspector-plugin
+
+  The default combination keys for Mac are Option + Shift; for Windows, it's Alt + Shift, and the browser console will output related combination key prompts
+```
+
 
